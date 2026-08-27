@@ -1,0 +1,4 @@
+# Ignore all dataset contents, keep the registry and folder structure docs
+*
+!.gitignore
+!README.md
